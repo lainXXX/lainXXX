@@ -1,10 +1,10 @@
-## 👋 Hi, I'm lain
+## 👋 你好，我是 lain
 
-Java backend developer, passionate about building clean and efficient systems.
+Java 后端开发者，专注于构建简洁、高效的系统。
 
 ---
 
-### 🛠️ Tech Stack
+### 🛠️ 技术栈
 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=spring-boot&logoColor=white)
@@ -14,16 +14,16 @@ Java backend developer, passionate about building clean and efficient systems.
 ![RabbitMQ](https://img.shields.io/badge/RabbitMQ-FF6600?style=flat-square&logo=rabbitmq&logoColor=white)
 ![Maven](https://img.shields.io/badge/Maven-C71A36?style=flat-square&logo=apache-maven&logoColor=white)
 
-### 📊 GitHub Stats
+### 📊 GitHub 统计
 
 ![](https://github-readme-stats.vercel.app/api?username=lainXXX&show_icons=true&theme=graywhite&hide_border=true&count_private=true)
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=lainXXX&layout=compact&theme=graywhite&hide_border=true)
 
-### 📝 Blog
+### 📝 博客
 
 - [掘金](https://juejin.cn/user/your-id)
 
 ---
 
-![Profile views](https://komarev.com/ghpvc/?username=lainXXX&color=blue&style=flat-square&label=Profile+Views)
+![Profile views](https://komarev.com/ghpvc/?username=lainXXX&color=blue&style=flat-square&label=访问量)
